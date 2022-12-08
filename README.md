@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Drew Pagnotta</h1>
 <h3 align="center">Crypto & Web3 Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=drewpagnotta&label=Profile%20views&color=0e75b6&style=flat" alt="drewpagnotta" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drewpagnotta" alt="drewpagnotta" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/mobiesage" target="blank"><img src="https://img.shields.io/twitter/follow/mobiesage?logo=twitter&style=for-the-badge" alt="mobiesage" /></a> </p>
 
 - 🌱 I’m currently learning **FinTech, Python, & Solidity in the University of Denver's FinTech Bootcamp**
 
 - 📫 How to reach me **drewpagnotta@yahoo.com**
 
-- ⚡ Fun fact **I push for crypto payments adoption.**
+- ⚡ Fun fact **I support crypto payments adoption.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
