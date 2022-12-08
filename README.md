@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Drew Pagnotta</h1>
-<h3 align="center">Crypto & Web3 Enthusiast</h3>
+<h3 align="center">Crypto & Web3 Enthusiast, FinTech Professional</h3>
 
 <p align="left"> <a href="https://twitter.com/mobiesage" target="blank"><img src="https://img.shields.io/twitter/follow/mobiesage?logo=twitter&style=for-the-badge" alt="mobiesage" /></a> </p>
 
