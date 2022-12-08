@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Drew Pagnotta</h1>
-<h3 align="center">Crypto & Web3 Enthusiast, FinTech Professional</h3>
+<h3 align="center">Crypto & Web3 Enthusiast, FinTech Professional - Looking for new & challenging work!</h3>
 
 <p align="left"> <a href="https://twitter.com/mobiesage" target="blank"><img src="https://img.shields.io/twitter/follow/mobiesage?logo=twitter&style=for-the-badge" alt="mobiesage" /></a> </p>
 
-- 🌱 I’m currently learning **FinTech, Python, & Solidity in the University of Denver's FinTech Bootcamp**
+- 🌱 I’m currently learning **FinTech, Python, & Solidity and a graduate of Denver University's FinTech Bootcamp**
 
 - 📫 How to reach me **drewpagnotta@yahoo.com**
 
